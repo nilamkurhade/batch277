@@ -5,6 +5,7 @@ public class HelloWorld
 		while(true)
 		{
 			System.out.println("Hello world");
+			Syetem.out.println("Hello everyone")
 			try
 			{
 				Thread.sleep(6000);
